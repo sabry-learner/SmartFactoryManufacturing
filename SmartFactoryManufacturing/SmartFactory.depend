@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1702203496 source:e:\project_2\smartfactory\main.cpp
+	<iostream>
+	"SmartFactory.h"
+	"Resource.h"
+	"Product.h"
+
+1702200290 source:e:\project_2\smartfactory\resource.cpp
+	"Resource.h"
+
+1702200290 e:\project_2\smartfactory\resource.h
+	<iostream>
+
+1702202435 source:e:\project_2\smartfactory\operation.cpp
+	"Operation.h"
+
+1702201203 e:\project_2\smartfactory\operation.h
+	"Resource.h"
+
+1702200927 source:e:\project_2\smartfactory\product.cpp
+	"Product.h"
+
+1702201146 e:\project_2\smartfactory\product.h
+	"Operation.h"
+	"Stack.h"
+
+1702203772 e:\project_2\smartfactory\stack.h
+	<iostream>
+	<assert.h>
+
+1702201494 source:e:\project_2\smartfactory\smartfactory.cpp
+	"SmartFactory.h"
+
+1702201494 e:\project_2\smartfactory\smartfactory.h
+	"Product.h"
+	"SubLinkedList.h"
+
+1702202236 e:\project_2\smartfactory\sublinkedlist.h
+	<iostream>
+	<assert.h>
+
+1702202435 source:c:\users\leader\desktop\smartfactory\operation.cpp
+	"Operation.h"
+
+1702201203 c:\users\leader\desktop\smartfactory\operation.h
+	"Resource.h"
+
+1702200290 c:\users\leader\desktop\smartfactory\resource.h
+	<iostream>
+
+1702200927 source:c:\users\leader\desktop\smartfactory\product.cpp
+	"Product.h"
+
+1702201146 c:\users\leader\desktop\smartfactory\product.h
+	"Operation.h"
+	"Stack.h"
+
+1702203772 c:\users\leader\desktop\smartfactory\stack.h
+	<iostream>
+	<assert.h>
+
+1702200290 source:c:\users\leader\desktop\smartfactory\resource.cpp
+	"Resource.h"
+
+1702210217 source:c:\users\leader\desktop\smartfactory\smartfactory.cpp
+	"SmartFactory.h"
+
+1702201494 c:\users\leader\desktop\smartfactory\smartfactory.h
+	"Product.h"
+	"SubLinkedList.h"
+
+1702209189 c:\users\leader\desktop\smartfactory\sublinkedlist.h
+	<iostream>
+	<assert.h>
+
+1702210264 source:c:\users\leader\desktop\smartfactory\main.cpp
+	<iostream>
+	"SmartFactory.h"
+
+1707141541 source:c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\operation.cpp
+	"Operation.h"
+
+1707141541 c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\operation.h
+	"Resource.h"
+
+1707141541 c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\resource.h
+	<iostream>
+
+1707141541 source:c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\product.cpp
+	"Product.h"
+
+1707141541 c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\product.h
+	"Operation.h"
+	"Stack.h"
+
+1707141541 c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\stack.h
+	<iostream>
+	<assert.h>
+
+1707141541 source:c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\resource.cpp
+	"Resource.h"
+
+1707141541 source:c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\smartfactory.cpp
+	"SmartFactory.h"
+
+1707141541 c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\smartfactory.h
+	"Product.h"
+	"SubLinkedList.h"
+
+1707141541 c:\users\ms693\downloads\telegram desktop\smartfactorymanufacturing\sublinkedlist.h
+	<iostream>
+	<assert.h>
+
